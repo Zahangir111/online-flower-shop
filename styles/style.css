@@ -108,7 +108,7 @@ featured-flower-image-3 {
 .delivery-support-wrapper {
   display: flex;
   justify-content: center;
-  gap: 70px;
+  gap: 100px;
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
   padding: 80px 175px 87px 175px;
