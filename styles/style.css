@@ -53,7 +53,7 @@ body {
   height: 800px;
 }
 /* Banner Section Related Styles End Here */
-/* Featured flower Section Container Styles Start Here */
+/* Featured flower Section  Styles Start Here */
 .featured-flower-container {
   padding: 178px 240px 128px 240px;
 }
@@ -99,3 +99,29 @@ featured-flower-image-3 {
   text-decoration-line: underline;
   margin-top: 32px;
 }
+/* Featured flower Section Container Styles End Here */
+/* <!-- Delivery And Support Section Styles Start Here --> */
+.delivery-support-container {
+  padding: 0px 240px 128px 240px;
+}
+
+.delivery-support-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  padding: 80px 175px 87px 175px;
+}
+.delivery-support-content {
+  text-align: center;
+}
+.delivery-collect-description {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 35px;
+  margin-top: 24px;
+}
+/* <!-- Delivery And Support Section Styles End Here --> */
