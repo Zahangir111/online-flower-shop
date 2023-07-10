@@ -63,7 +63,7 @@ body {
   font-size: 40px;
   font-weight: 800;
 }
-.featured-flower-descripton {
+.featured-flower-description {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
   font-size: 18px;
@@ -72,6 +72,7 @@ body {
   margin-top: 24px;
   margin-bottom: 48px;
 }
+
 .featured-flower-items {
   display: flex;
   justify-content: center;
@@ -98,6 +99,9 @@ featured-flower-image-3 {
   line-height: 35px;
   text-decoration-line: underline;
   margin-top: 32px;
+}
+.featured-link:hover {
+  cursor: pointer;
 }
 /* Featured flower Section Container Styles End Here */
 /* <!-- Delivery And Support Section Styles Start Here --> */
