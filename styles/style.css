@@ -31,7 +31,9 @@ body {
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 32px;
+  padding-right: 50px;
 }
+
 .btn-primary {
   border-radius: 8px;
   background: #e55473;
@@ -40,6 +42,11 @@ body {
   color: #fff;
   font-size: 20px;
   font-weight: 700;
+}
+.btn-primary:hover {
+  background: #e04e6d;
+  cursor: pointer;
+  transition: 0.3s all;
 }
 .banner-hero-image img {
   width: 635px;
