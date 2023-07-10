@@ -154,3 +154,70 @@ featured-flower-image-3 {
   margin-top: 24px;
   margin-bottom: 32px;
 }
+/* <!-- Hot Deal Sale Offer Section Styles End Here --> */
+/* Instagram Section Styles Start Here */
+.instagram-container {
+  padding: 125px 240px;
+}
+.instagram-headline {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.instagram-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 48px;
+}
+.instagram-content-wrapper {
+  display: flex;
+  gap: 24px;
+}
+/* Instagram Section Styles End Here */
+
+.newslatter-container {
+  padding: 125px 240px;
+  align-items: center;
+}
+.newsletter-content-wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  background-image: url("../images/Rectangle\ 9.png");
+  padding: 120px 300px;
+  background-repeat: no-repeat;
+
+  border-radius: 8px;
+  background-size: cover;
+}
+.newsletter-tittle {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+.newsletter-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 48px;
+}
+.subscribe-content {
+  text-align: center;
+  display: flex;
+}
+.subscribe-content input {
+  padding: 20px 0px;
+  width: 700px;
+  border: 0;
+  padding-left: 22px;
+  border-radius: 8px;
+  background: #fff;
+}
