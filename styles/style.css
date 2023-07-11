@@ -194,6 +194,7 @@ body {
 }
 .extra-section-wrap {
   display: flex;
+  align-items: center;
   gap: 50px;
 }
 .extra-content {
