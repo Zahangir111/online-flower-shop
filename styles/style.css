@@ -165,7 +165,7 @@ body {
 /* <!-- Hot Deal Sale Offer Section Styles End Here --> */
 /* Instagram Section Styles Start Here */
 .instagram-container {
-  padding: 125px 240px 0px 240px;
+  padding: 125px 240px 125px 240px;
 }
 .instagram-headline {
   color: #272727;
@@ -187,6 +187,35 @@ body {
   gap: 24px;
 }
 /* Instagram Section Styles End Here */
+/* Extra Section Styles Start Here */
+.extra-section {
+  padding: 125px 240px 125px 240px;
+  background-color: #e554731a;
+}
+.extra-section-wrap {
+  display: flex;
+  gap: 50px;
+}
+.extra-content {
+  padding-right: 50px;
+}
+.extra-heading {
+  color: #e55473;
+  font-size: 20px;
+  font-style: italic;
+}
+.extra-another-heading {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 24px;
+}
+.extra-des {
+  margin-bottom: 24px;
+  line-height: 30px;
+}
+
+/* Extra Section Styles End Here */
 /* Nesletter Section Styles Start Here */
 .newslatter-container {
   padding: 125px 240px;
