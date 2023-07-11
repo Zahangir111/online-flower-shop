@@ -51,6 +51,7 @@ body {
 .banner-hero-image img {
   width: 635px;
   height: 800px;
+  vertical-align: bottom;
 }
 /* Banner Section Related Styles End Here */
 /* Featured flower Section  Styles Start Here */
