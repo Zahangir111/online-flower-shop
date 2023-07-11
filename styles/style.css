@@ -165,7 +165,7 @@ body {
 /* <!-- Hot Deal Sale Offer Section Styles End Here --> */
 /* Instagram Section Styles Start Here */
 .instagram-container {
-  padding: 125px 240px;
+  padding: 125px 240px 0px 240px;
 }
 .instagram-headline {
   color: #272727;
