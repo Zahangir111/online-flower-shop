@@ -195,7 +195,7 @@ body {
 .extra-section-wrap {
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 75px;
 }
 .extra-content {
   padding-right: 50px;
